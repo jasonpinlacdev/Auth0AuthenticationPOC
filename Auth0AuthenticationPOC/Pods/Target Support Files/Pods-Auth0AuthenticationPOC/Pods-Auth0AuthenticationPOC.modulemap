@@ -1,0 +1,6 @@
+framework module Pods_Auth0AuthenticationPOC {
+  umbrella header "Pods-Auth0AuthenticationPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
